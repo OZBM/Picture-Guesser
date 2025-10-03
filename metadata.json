@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Guessing Game",
+  "description": "A game where you guess the subject of an AI-generated image. Each wrong guess makes the image clearer. Identify the subject before the final image is revealed to win!",
+  "requestFramePermissions": []
+}
